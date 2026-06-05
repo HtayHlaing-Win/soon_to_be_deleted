@@ -1,2 +1,11 @@
-# soon_to_be_deleted
-just a junk repo. soon to be deleted
+
+  # LinguistAI web app design
+
+  This is a code bundle for LinguistAI web app design. The original project is available at https://www.figma.com/design/QZf4jISvq8ygEgtROvxGEq/LinguistAI-web-app-design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
